@@ -1,5 +1,7 @@
 # hello-world
 
+This was an introduction to VueJS. It covers how to install, initiate and create simple element and JS function in VueJS. The goal of this class was to give exposure on how VueJS able to simplify DOM.
+
 ## Project setup
 ```
 npm install
